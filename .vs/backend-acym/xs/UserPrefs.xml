@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F0B4DDFB-DA93-457B-9C5F-2499CA4B87E8}|Default">
+  <MonoDevelop.Ide.ItemProperties.web-api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="web-api/Controllers/Login/LoginController.cs">
+    <Files>
+      <File FileName="ApiBusinessLogic/Implementation/General/LoginLogic.cs" Line="19" Column="10" />
+      <File FileName="ApiModel/User/Users.cs" />
+      <File FileName="ApiModel/ResponseDTO/Login/LoginResponse.cs" />
+      <File FileName="ApiBusinessLogic/Implementation/User/UserLogic.cs" />
+      <File FileName="ApiModel/RequestDTO/User/UserRequest.cs" />
+      <File FileName="ApiModel/RequestDTO/Login/LoginRequest.cs" />
+      <File FileName="ApiBusinessLogic/Interfaces/General/ILoginLogic.cs" />
+      <File FileName="web-api/Controllers/Login/LoginController.cs" Line="21" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="backend-acym" expanded="True">
+            <Node name="web-api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Login" expanded="True">
+                  <Node name="LoginController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
