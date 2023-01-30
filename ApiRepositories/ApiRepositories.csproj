@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="General\" />
+    <None Remove="User\" />
+    <None Remove="Member\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="General\" />
+    <Folder Include="User\" />
+    <Folder Include="Member\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ApiModel\ApiModel.csproj" />
+  </ItemGroup>
+</Project>

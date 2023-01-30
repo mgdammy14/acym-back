@@ -1,0 +1,381 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gonzalopingo/Projects/backend-acym/web-api/web-api.csproj": {}
+  },
+  "projects": {
+    "/Users/gonzalopingo/Projects/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj",
+        "projectName": "ApiBusinessLogic",
+        "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/backend-acym/ApiBusinessLogic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.25.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gonzalopingo/Projects/backend-acym/ApiDataAccess/ApiDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/backend-acym/ApiDataAccess/ApiDataAccess.csproj",
+        "projectName": "ApiDataAccess",
+        "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiDataAccess/ApiDataAccess.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/backend-acym/ApiDataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj"
+              },
+              "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj",
+        "projectName": "ApiModel",
+        "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/backend-acym/ApiModel/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Dapper.Contrib": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj",
+        "projectName": "ApiRepositories",
+        "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj",
+        "projectName": "ApiUnitOfWork",
+        "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/gonzalopingo/Projects/backend-acym/web-api/web-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gonzalopingo/Projects/backend-acym/web-api/web-api.csproj",
+        "projectName": "web-api",
+        "projectPath": "/Users/gonzalopingo/Projects/backend-acym/web-api/web-api.csproj",
+        "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
+        "outputPath": "/Users/gonzalopingo/Projects/backend-acym/web-api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/gonzalopingo/Projects/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj"
+              },
+              "/Users/gonzalopingo/Projects/backend-acym/ApiDataAccess/ApiDataAccess.csproj": {
+                "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiDataAccess/ApiDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

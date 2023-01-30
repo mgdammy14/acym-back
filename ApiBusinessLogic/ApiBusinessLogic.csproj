@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Implementation\" />
+    <None Remove="Interfaces\" />
+    <None Remove="Implementation\User\" />
+    <None Remove="Interfaces\User\" />
+    <None Remove="Interfaces\Member\" />
+    <None Remove="Implementation\Member\" />
+    <None Remove="Implementation\General\" />
+    <None Remove="Interfaces\General\" />
+    <None Remove="System.IdentityModel.Tokens.Jwt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Implementation\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Implementation\User\" />
+    <Folder Include="Interfaces\User\" />
+    <Folder Include="Interfaces\Member\" />
+    <Folder Include="Implementation\Member\" />
+    <Folder Include="Implementation\General\" />
+    <Folder Include="Interfaces\General\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ApiUnitOfWork\ApiUnitOfWork.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.25.1" />
+  </ItemGroup>
+</Project>

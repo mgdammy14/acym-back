@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="User\" />
+    <None Remove="Dapper" />
+    <None Remove="Dapper.Contrib" />
+    <None Remove="RequestDTO\" />
+    <None Remove="RequestDTO\User\" />
+    <None Remove="ResponseDTO\" />
+    <None Remove="ResponseDTO\General\" />
+    <None Remove="Member\" />
+    <None Remove="RequestDTO\Member\" />
+    <None Remove="ResponseDTO\Login\" />
+    <None Remove="RequestDTO\Login\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="User\" />
+    <Folder Include="RequestDTO\" />
+    <Folder Include="RequestDTO\User\" />
+    <Folder Include="ResponseDTO\" />
+    <Folder Include="ResponseDTO\General\" />
+    <Folder Include="Member\" />
+    <Folder Include="RequestDTO\Member\" />
+    <Folder Include="ResponseDTO\Login\" />
+    <Folder Include="RequestDTO\Login\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Dapper.Contrib" Version="2.0.78" />
+  </ItemGroup>
+</Project>
