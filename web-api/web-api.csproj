@@ -20,12 +20,14 @@
     <None Remove="Swashbuckle.AspNetCore" />
     <None Remove="Controllers\Member\" />
     <None Remove="Controllers\Login\" />
+    <None Remove="Controllers\Maintenance\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Controllers\User\" />
     <Folder Include="Controllers\Member\" />
     <Folder Include="Controllers\Login\" />
+    <Folder Include="Controllers\Maintenance\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />

@@ -12,6 +12,7 @@ namespace web_api.Controllers.Member
     {
         private ResponseDTO _responseDTO = null;
         private IMemberLogic _logic;
+
         public MemberController(IMemberLogic logic)
         {
             _logic = logic;

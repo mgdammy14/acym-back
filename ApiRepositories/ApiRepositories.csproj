@@ -8,11 +8,13 @@
     <None Remove="General\" />
     <None Remove="User\" />
     <None Remove="Member\" />
+    <None Remove="Maintenance\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="General\" />
     <Folder Include="User\" />
     <Folder Include="Member\" />
+    <Folder Include="Maintenance\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ApiModel\ApiModel.csproj" />

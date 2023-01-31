@@ -14,10 +14,14 @@ namespace ApiBusinessLogic.Implementation.General
     public class LoginLogic : ILoginLogic
     {
         private readonly IUnitOfWork _unitOfWork;
+        private IExceptionCustomizedLogic _logicExceptionCustomizedLogic;
+        private string _option;
 
-        public LoginLogic(IUnitOfWork unitOfWork)
+        public LoginLogic(IUnitOfWork unitOfWork, IExceptionCustomizedLogic exceptionCustomizedLogic)
         {
             _unitOfWork = unitOfWork;
+            _logicExceptionCustomizedLogic = exceptionCustomizedLogic;
+            _option = "Login";
         }
 
         public LoginResponse Login(LoginRequest dto)
@@ -55,18 +59,18 @@ namespace ApiBusinessLogic.Implementation.General
                     }
                     else
                     {
-                        throw new UnauthorizedAccessException("unAuthorized");
+                        throw new Exception("unAuthorized");
                     }
                 }
                 else
                 {
-                    throw new UnauthorizedAccessException("unAuthorized");
+                    throw new Exception("unAuthorized");
                 }
                 return response;
             }
             catch(Exception e)
             {
-                throw e;
+                throw _logicExceptionCustomizedLogic.Decision(_option, e);
             }
         }
     }

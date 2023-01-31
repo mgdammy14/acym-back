@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using ApiBusinessLogic.Implementation.General;
+using ApiBusinessLogic.Implementation.Maintenance;
 using ApiBusinessLogic.Implementation.Member;
 using ApiBusinessLogic.Implementation.User;
 using ApiBusinessLogic.Interfaces.General;
+using ApiBusinessLogic.Interfaces.Maintenance;
 using ApiBusinessLogic.Interfaces.Member;
 using ApiBusinessLogic.Interfaces.User;
 using ApiDataAccess.General;
@@ -41,6 +43,9 @@ namespace web_api
             services.AddScoped<IUserLogic, UserLogic>();
             services.AddScoped<IMemberLogic, MemberLogic>();
             services.AddScoped<ILoginLogic, LoginLogic>();
+            services.AddScoped<ITypeIncomeLogic, TypeIncomeLogic>();
+
+            services.AddScoped<IExceptionCustomizedLogic, ExceptionCustomizedLogic>();
 
             services.AddSingleton<IUnitOfWork>(option => new UnitOfWork(
                     Configuration.GetConnectionString("develop-azure")

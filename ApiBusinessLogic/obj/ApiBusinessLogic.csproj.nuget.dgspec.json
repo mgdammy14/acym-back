@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gonzalopingo/Projects/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj": {}
+    "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj": {}
   },
   "projects": {
-    "/Users/gonzalopingo/Projects/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj": {
+    "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gonzalopingo/Projects/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj",
+        "projectUniqueName": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj",
         "projectName": "ApiBusinessLogic",
-        "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj",
+        "projectPath": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj",
         "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
-        "outputPath": "/Users/gonzalopingo/Projects/backend-acym/ApiBusinessLogic/obj/",
+        "outputPath": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiBusinessLogic/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj": {
-                "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj"
+              "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj": {
+                "projectPath": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj"
               }
             }
           }
@@ -42,9 +42,13 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[6.25.1, )"
+              "version": "[6.26.0, )"
             }
           },
           "imports": [
@@ -66,14 +70,14 @@
         }
       }
     },
-    "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj": {
+    "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiModel/ApiModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj",
+        "projectUniqueName": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiModel/ApiModel.csproj",
         "projectName": "ApiModel",
-        "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj",
+        "projectPath": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiModel/ApiModel.csproj",
         "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
-        "outputPath": "/Users/gonzalopingo/Projects/backend-acym/ApiModel/obj/",
+        "outputPath": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiModel/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
@@ -128,14 +132,14 @@
         }
       }
     },
-    "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj": {
+    "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/ApiRepositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj",
+        "projectUniqueName": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/ApiRepositories.csproj",
         "projectName": "ApiRepositories",
-        "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj",
+        "projectPath": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/ApiRepositories.csproj",
         "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
-        "outputPath": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/obj/",
+        "outputPath": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
@@ -150,8 +154,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj": {
-                "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj"
+              "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiModel/ApiModel.csproj": {
+                "projectPath": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiModel/ApiModel.csproj"
               }
             }
           }
@@ -184,14 +188,14 @@
         }
       }
     },
-    "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj": {
+    "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj",
+        "projectUniqueName": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj",
         "projectName": "ApiUnitOfWork",
-        "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj",
+        "projectPath": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiUnitOfWork/ApiUnitOfWork.csproj",
         "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
-        "outputPath": "/Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/obj/",
+        "outputPath": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiUnitOfWork/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
@@ -206,8 +210,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj": {
-                "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj"
+              "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/ApiRepositories.csproj": {
+                "projectPath": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/ApiRepositories.csproj"
               }
             }
           }

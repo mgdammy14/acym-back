@@ -10,11 +10,13 @@
     <None Remove="System.Data.SqlClient" />
     <None Remove="Dapper.Contrib" />
     <None Remove="Member\" />
+    <None Remove="Maintenance\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="User\" />
     <Folder Include="General\" />
     <Folder Include="Member\" />
+    <Folder Include="Maintenance\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ApiRepositories\ApiRepositories.csproj" />

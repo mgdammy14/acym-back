@@ -11,3 +11,16 @@
 /Users/gonzalopingo/Projects/backend-acym/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.csproj.CopyComplete
 /Users/gonzalopingo/Projects/backend-acym/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.dll
 /Users/gonzalopingo/Projects/backend-acym/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.pdb
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/bin/Debug/netcoreapp3.1/ApiRepositories.deps.json
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/bin/Debug/netcoreapp3.1/ApiRepositories.dll
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/bin/Debug/netcoreapp3.1/ApiRepositories.pdb
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/bin/Debug/netcoreapp3.1/ApiModel.dll
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/bin/Debug/netcoreapp3.1/ApiModel.pdb
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.csproj.AssemblyReference.cache
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.AssemblyInfoInputs.cache
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.AssemblyInfo.cs
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.csproj.CoreCompileInputs.cache
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.csproj.CopyComplete
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.dll
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiRepositories/obj/Debug/netcoreapp3.1/ApiRepositories.pdb
