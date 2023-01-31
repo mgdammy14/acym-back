@@ -14,6 +14,9 @@
     <None Remove="Implementation\General\" />
     <None Remove="Interfaces\General\" />
     <None Remove="System.IdentityModel.Tokens.Jwt" />
+    <None Remove="Serilog.AspNetCore" />
+    <None Remove="Implementation\Maintenance\" />
+    <None Remove="Interfaces\Maintenance\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Implementation\" />
@@ -24,11 +27,14 @@
     <Folder Include="Implementation\Member\" />
     <Folder Include="Implementation\General\" />
     <Folder Include="Interfaces\General\" />
+    <Folder Include="Implementation\Maintenance\" />
+    <Folder Include="Interfaces\Maintenance\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ApiUnitOfWork\ApiUnitOfWork.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.25.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.26.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="6.1.0" />
   </ItemGroup>
 </Project>

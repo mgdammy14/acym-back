@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ulH/ftndnBUbhL4HldVS5ORHk7iOoE/hiqLaSsqY2rdrtUufQ4uYjYBt1vrSD+s3dOJmf6d2YUiIALbZEJxlnQ==",
+  "dgSpecHash": "5xYWNN8KLNBRNcg4a6R20vJmEUyvf5Ula/El9DfiWYAORy5b2N0hq7F0HlBC4XHtLfnpTFU6Vfo+nPKj42COtA==",
   "success": true,
-  "projectFilePath": "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj",
+  "projectFilePath": "/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiModel/ApiModel.csproj",
   "expectedPackageFiles": [
     "/Users/gonzalopingo/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
     "/Users/gonzalopingo/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512",

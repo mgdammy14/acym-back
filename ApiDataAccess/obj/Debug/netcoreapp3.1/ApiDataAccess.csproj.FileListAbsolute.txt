@@ -15,3 +15,20 @@
 /Users/gonzalopingo/Projects/backend-acym/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.csproj.CopyComplete
 /Users/gonzalopingo/Projects/backend-acym/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.dll
 /Users/gonzalopingo/Projects/backend-acym/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.pdb
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiDataAccess.deps.json
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiDataAccess.dll
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiDataAccess.pdb
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiModel.dll
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiRepositories.dll
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiUnitOfWork.dll
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiRepositories.pdb
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiUnitOfWork.pdb
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/bin/Debug/netcoreapp3.1/ApiModel.pdb
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.csproj.AssemblyReference.cache
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.AssemblyInfoInputs.cache
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.AssemblyInfo.cs
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.csproj.CoreCompileInputs.cache
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.csproj.CopyComplete
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.dll
+/Users/gonzalopingo/Desktop/IACYM JUANJUI SIS/backend-acym/ApiDataAccess/obj/Debug/netcoreapp3.1/ApiDataAccess.pdb

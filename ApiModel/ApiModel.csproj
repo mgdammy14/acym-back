@@ -16,6 +16,8 @@
     <None Remove="RequestDTO\Member\" />
     <None Remove="ResponseDTO\Login\" />
     <None Remove="RequestDTO\Login\" />
+    <None Remove="General\" />
+    <None Remove="Maintenance\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="User\" />
@@ -27,6 +29,8 @@
     <Folder Include="RequestDTO\Member\" />
     <Folder Include="ResponseDTO\Login\" />
     <Folder Include="RequestDTO\Login\" />
+    <Folder Include="General\" />
+    <Folder Include="Maintenance\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Dapper" Version="2.0.123" />
