@@ -13,3 +13,18 @@
 /Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.csproj.CopyComplete
 /Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.dll
 /Users/gonzalopingo/Projects/backend-acym/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.pdb
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiUnitOfWork.deps.json
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiUnitOfWork.dll
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiUnitOfWork.pdb
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiModel.dll
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiRepositories.dll
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiRepositories.pdb
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/bin/Debug/netcoreapp3.1/ApiModel.pdb
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.csproj.AssemblyReference.cache
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.AssemblyInfoInputs.cache
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.AssemblyInfo.cs
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.csproj.CoreCompileInputs.cache
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.csproj.CopyComplete
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.dll
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiUnitOfWork/obj/Debug/netcoreapp3.1/ApiUnitOfWork.pdb

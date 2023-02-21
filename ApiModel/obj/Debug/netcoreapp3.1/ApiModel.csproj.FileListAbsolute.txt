@@ -8,3 +8,13 @@
 /Users/gonzalopingo/Projects/backend-acym/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.csproj.CoreCompileInputs.cache
 /Users/gonzalopingo/Projects/backend-acym/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.dll
 /Users/gonzalopingo/Projects/backend-acym/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.pdb
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiModel/bin/Debug/netcoreapp3.1/ApiModel.deps.json
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiModel/bin/Debug/netcoreapp3.1/ApiModel.dll
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiModel/bin/Debug/netcoreapp3.1/ApiModel.pdb
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.csproj.AssemblyReference.cache
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.AssemblyInfoInputs.cache
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.AssemblyInfo.cs
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.csproj.CoreCompileInputs.cache
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.dll
+/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiModel/obj/Debug/netcoreapp3.1/ApiModel.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ujhy24gQSGDZ1bl1ByzJByf+lFu+MEhiy6Ru9xzNROSo1OPqL/bnaBB/UQe/G/woYbSE/SERjc8yvQYuo7lUmw==",
+  "dgSpecHash": "jYeq770KHM+wDUJMZLlxDr/jhQxciYWJzhenKuspCJohlM4RG+TGH06lFS07Dqe4TDUGkTtqFFC/k/x6g7kWUw==",
   "success": true,
-  "projectFilePath": "/Users/gonzalopingo/Projects/backend-acym/ApiBusinessLogic/ApiBusinessLogic.csproj",
+  "projectFilePath": "/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiBusinessLogic/ApiBusinessLogic.csproj",
   "expectedPackageFiles": [
     "/Users/gonzalopingo/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
     "/Users/gonzalopingo/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512",

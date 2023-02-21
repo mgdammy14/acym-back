@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "td9JA+GusYyetO437MoehDWMhhI9rKhyXwFv9qn47DryNkwtM9fxpcnjmhjmwJJ+g4J12+jX2GY2a+gitkfsRg==",
+  "dgSpecHash": "uPyF9bSzo7sgA0dENKlCVeg0LMijvGG5kHNc/dmiHsUFwMaiPgP6BrotUkZ5DvuL+21Ud0OcJU3FZMk7Tvtm7Q==",
   "success": true,
-  "projectFilePath": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj",
+  "projectFilePath": "/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiRepositories/ApiRepositories.csproj",
   "expectedPackageFiles": [
     "/Users/gonzalopingo/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
     "/Users/gonzalopingo/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512",

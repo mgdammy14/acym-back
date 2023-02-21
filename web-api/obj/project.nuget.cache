@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AYrt78UggtSoqhOoTwV/3x/QlgTg3ZPZISTGDYzm+DSuWONtiGhQreRxvbNcxFgrhvsA25X2l0Jyg8rVSqDR1Q==",
+  "dgSpecHash": "IApV0Ul5R+ZUH6J6cZuSoHjfeQhL26CjAeE1/LbltSg2A8dDMamlY6vp1tggm66c7l06UoZ01NxYst/S12IWHA==",
   "success": true,
-  "projectFilePath": "/Users/gonzalopingo/Projects/backend-acym/web-api/web-api.csproj",
+  "projectFilePath": "/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/web-api/web-api.csproj",
   "expectedPackageFiles": [
     "/Users/gonzalopingo/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
     "/Users/gonzalopingo/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512",

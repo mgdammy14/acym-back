@@ -11,6 +11,7 @@ namespace ApiBusinessLogic.Implementation.Member
     public class MemberLogic : IMemberLogic
     {
         private readonly IUnitOfWork _unitOfWork;
+
         public MemberLogic(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;

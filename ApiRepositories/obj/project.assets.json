@@ -305,11 +305,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj",
+      "projectUniqueName": "/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiRepositories/ApiRepositories.csproj",
       "projectName": "ApiRepositories",
-      "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/ApiRepositories.csproj",
+      "projectPath": "/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiRepositories/ApiRepositories.csproj",
       "packagesPath": "/Users/gonzalopingo/.nuget/packages/",
-      "outputPath": "/Users/gonzalopingo/Projects/backend-acym/ApiRepositories/obj/",
+      "outputPath": "/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiRepositories/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/gonzalopingo/.config/NuGet/NuGet.Config"
@@ -324,8 +324,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj": {
-              "projectPath": "/Users/gonzalopingo/Projects/backend-acym/ApiModel/ApiModel.csproj"
+            "/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiModel/ApiModel.csproj": {
+              "projectPath": "/Users/gonzalopingo/Desktop/SIS ACYM/acym-back/ApiModel/ApiModel.csproj"
             }
           }
         }
